@@ -1,6 +1,6 @@
-# PasswordStrengthAnalyzer
+# Password Strength Analyzer
 
-A tool to evaluate password strength for Security Foundations course
+A GUI-based tool to evaluate password strength for my Security Foundations course.
 
 ## Setup
 
@@ -9,4 +9,4 @@ A tool to evaluate password strength for Security Foundations course
 
 ## Usage
 
-Enter a password when prompted. The tool will rate it as Weak, Moderate, or Strong and provide feedback.
+Launch the app, enter a password in the text box, and click "Check Strength" to see the rating and feedback.
